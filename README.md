@@ -1,4 +1,4 @@
-# Building a (Very Basic) Search Engine
+# How I Built a Lightweight Search Engine Using Classic NLP
 
 This notebook walks through the process of building a simple search engine using fundamental NLP techniques like TF-IDF vectorization and cosine similarity.
 
