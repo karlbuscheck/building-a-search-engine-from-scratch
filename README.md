@@ -19,7 +19,7 @@ The results? Wildly wrong -- and yet surprisingly revealing. This little failure
 - **pandas** — for data loading and manipulation
 - **nltk** - for text preprocessing, stemming, and lemmatization 
 - **gensim** -- for tokenization suppot
-- **scikit-learn** — for vectorization( CountVectorization, TfidfVectorization), cosine similarity, and modeling infrastructure 
+- **scikit-learn** — for vectorization (CountVectorization, TfidfVectorization), cosine similarity, and modeling infrastructure 
 
 ## The Dataset
 
